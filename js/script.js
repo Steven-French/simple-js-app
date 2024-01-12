@@ -1,10 +1,4 @@
-let favoriteFood = 'Spaghetti';
-
-alert("Hello world");
-document.write(favoriteFood);
-
-
-/* let pokemonList = [
+let pokemonList = [
     { 
         name: "Bulbasaur",
         height: 7,
@@ -24,5 +18,3 @@ document.write(favoriteFood);
     },
 
 ]
-
-*/
